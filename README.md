@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanmont" alt="allanmont" /></a> </p>
 
-- 🔭 Je travaille actuellement en tant qu'alternant Développeur Full-Stack à VinoVibes & VinoWays
+- 🔭 Je travaille actuellement en tant qu'alternant Développeur Front-end à Matchers
 
-- 👯 Je suis également étudiant en Licence Professionnelle APIDAE à Montpellier
+- 👯 Je suis également étudiant en Développeur Full Stack Java/Angular à OpenClassrooms pour un BAC +5
 
-- 👨‍💻 Je souhaiterai continuer vers un Master Developpeur Full-Stack
+- 👨‍💻 Je m'intéresse également au DevOps
 
 - ⚡ Vous trouverez mon portfolio ici : [allanmontagne.com](allanmontagne.com)
 
