@@ -6,7 +6,7 @@
 
 - 🔭 Je travaille actuellement en tant qu'alternant Développeur Front-end à Matchers
 
-- 👯 Je suis également étudiant en Développeur Full Stack Java/Angular à OpenClassrooms pour un BAC +5
+- 👯 Je possède un  BAC +5 Développeur Full Stack Java/Angular à OpenClassrooms
 
 - 👨‍💻 Je m'intéresse également au DevOps
 
